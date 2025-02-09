@@ -21,24 +21,24 @@ Questo progetto è un sistema completo per la **gestione dei prezzi** di prodott
 
 Per installare le dipendenze necessarie, assicurati di avere **Python 3+** installato, quindi lancia:
 
-\`\`\`bash
+
 pip install -r requirements.txt
-\`\`\`
+
 
 All’interno del file **requirements.txt** dovrai avere, come minimo:
 
-\`\`\`txt
+
 art
 Pillow
-\`\`\`
+
 
 ## Avvio del Programma
 
 1. Esegui il file principale, ad esempio:
 
-   \`\`\`bash
+
    python main.py
-   \`\`\`
+
 
 2. **Menu Principale**:  
    - **1. Accesso Socio**: Modalità per caricare/acquistare prodotti da parte del socio.
