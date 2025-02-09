@@ -35,10 +35,16 @@ Pillow
 
 ## Avvio del Programma
 
-1. Esegui il file principale, ad esempio:
+1. Esegui il file principale, al login:
 
+  **1. edita il file di profilo dell'utente pi**
 
-   python barcode_scanner.py
+    nano ~/.bash_profile  
+
+  **2. inserisci questa riga, salva ed esci.**
+
+   /home/pi/barcode/env/bin/python /home/pi/barcode/barcode_scanner.py
+
 
 
 2. **Menu Principale**:  
