@@ -29,6 +29,7 @@ All’interno del file **requirements.txt** dovrai avere, come minimo:
 
 
 art
+
 Pillow
 
 
@@ -37,7 +38,7 @@ Pillow
 1. Esegui il file principale, ad esempio:
 
 
-   python main.py
+   python barcode_scanner.py
 
 
 2. **Menu Principale**:  
